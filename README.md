@@ -18,12 +18,12 @@ Bu program kişisel kullanım için şifre oluşturmak veya güçlü şifrelerin
 
 ## Örnek Çalıştırma
 
-Kaç Şifre istiyorsunuz ? 3
-Şifre Uzunluğu : 12
-Oluşturulan Şifreler:
-K38%!&nR#m2P
-@8LXWt7f%2@3
-r9Bq61hNz$Pe
+- Kaç Şifre istiyorsunuz ? 3
+- Şifre Uzunluğu : 12
+- Oluşturulan Şifreler:
+- K38%!&nR#m2P
+- @8LXWt7f%2@3
+- r9Bq61hNz$Pe
 
 
 ## Güvenlik Notları
